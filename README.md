@@ -7,9 +7,9 @@ I am passionate about web development and the JavaScript driven application deve
 I try to abreast with the evolution of this ecosystem i.e the tooling and the underlying core tech alongside following the geographical trends .
 <br/>
 
-- 🚀 I have quite a bit of experiences with building fullstack projects using the MERN stack.
-- 🌱 I am currently learning about advanced data structures in programming. 
-- 💬 I am enthused towards participating in discussions centering aroung front-end development, back-end development and full stack development.
-- 👀 I am keen on exploring AWS cloud computing and Hyperledger blockchain technologies in the near future.
+- 🚀  I have quite a bit of experience with building fullstack projects leveraging the MERN stack.
+- 🌱  I am currently learning about backend development and implementation of advanced data structures. 
+- 💬  I feel enthused participating in discussions encompassing front-end development, back-end development and/or mobile app development.
+- 👀  I am keen on exploring AWS Cloud Computing and Hyperledger Blockchain Technologies in the near future.
 
 [Email](mailto:sujit.webdev@gmail.com) • [LinkedIn](https://www.linkedin.com/in/sujit-mohanty/) 
