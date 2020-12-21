@@ -1,5 +1,8 @@
 ## 👋 Hi! I am Sujit Mohanty.
 
+![](https://komarev.com/ghpvc/?username=sujitmohanty)
+
+
 I am a full stack web developer from India.
 
 I am passionate about web development and the JavaScript driven application development ecosystem. Predominantly, I am experienced with React.js 
