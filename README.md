@@ -14,7 +14,7 @@ I try to stay abreast with the blazingly fast evolution of front-end development
 <br/>
 
 -  I have quite a bit of experience with building fullstack projects leveraging the MERN stack.
--  I feel enthused participating in discussions encompassing front-end development, back-end development and/or mobile app development.
+-  I feel enthused participating in discussions encompassing front-end and back-end development.
 -  I am keen on exploring Cloud Computing and Hyperledger Blockchain Technology in the near future.
 
 [Email](mailto:sujit.webdev@gmail.com) • [LinkedIn](https://www.linkedin.com/in/sujit-mohanty/) 
