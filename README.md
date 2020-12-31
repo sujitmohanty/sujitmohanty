@@ -5,16 +5,15 @@
 
 I am a full stack web developer.
 
-I am passionate about web development and the JavaScript driven application development ecosystem in particular. 
+I am extremely passionate about web development, particularly the JavaScript driven web application development ecosystem. 
 
-Predominantly, I am experienced with React.js 
+Predominantly, I am experienced with React.js and also have some working experience with the MERN stack. 
 <br/>
 
-I try to stay abreast with the blazingly fast evolution of front-end development.
+I try my best to stay abreast with the blazingly fast evolution of the front-end development landscape.
 <br/>
 
--  I have quite a bit of experience with building fullstack projects leveraging the MERN stack.
--  I feel enthused participating in discussions encompassing front-end and back-end development.
--  I am keen on exploring Cloud Computing and Hyperledger Blockchain Technology in the near future.
+-  I feel enthused participating in discussions encompassing front-end and back-end web development.
+-  I am keen on exploring Django, AWS lambda and Flutter in 2021.
 
 [Email](mailto:sujit.webdev@gmail.com) • [LinkedIn](https://www.linkedin.com/in/sujit-mohanty/) 
