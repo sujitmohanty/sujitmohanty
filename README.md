@@ -10,7 +10,7 @@ I am extremely passionate about web development, particularly the JavaScript dri
 Predominantly, I am experienced with React.js and also have some working experience with the MERN stack. 
 <br/>
 
-I try my best to stay abreast with the blazingly fast evolution of the front-end development landscape.
+I strive to stay abreast with the blazingly fast evolution of the front-end development landscape.
 <br/>
 
 -  I feel enthused participating in discussions encompassing front-end and back-end web development.
