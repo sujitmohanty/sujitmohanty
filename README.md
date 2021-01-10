@@ -14,6 +14,6 @@ I strive to stay abreast with the blazingly fast evolution of the front-end deve
 <br/>
 
 -  I feel enthused participating in discussions encompassing front-end and back-end web development.
--  I will be exploring React Native, AWS Amplify & Docker in 2021.
+-  I will be exploring React Native & AWS Amplifyin 2021.
 
 [Email](mailto:sujit.webdev@gmail.com) • [LinkedIn](https://www.linkedin.com/in/sujit-mohanty/) 
