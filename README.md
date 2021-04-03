@@ -1,17 +1,14 @@
-## 👋 Hi! I am Sujit Mohanty.
-
-![](https://komarev.com/ghpvc/?username=sujitmohanty)
+## 👋 Hi, I am Sujit!
 
 
-I am a full stack web developer.
+I am a software developer.
 
-I am extremely passionate about web development, particularly the JavaScript driven web application development ecosystem. 
+I am extremely passionate about web application development, particularly the modern JavaScript driven web application development ecosystem. 
 
-Predominantly, I am experienced with React.js and also have some working experience with the MERN stack. 
+Predominantly, I am experienced with React.js but have some brief experience working with the MERN stack. 
 <br/>
 
 I strive to stay abreast with the blazingly fast evolution of the front-end development landscape.
 <br/>
 
--  I feel enthused participating in discussions encompassing front-end and back-end web development.
--  I will be exploring AWS Amplify in 2021.
+-  I feel enthused participating in discussions encompassing web and mobile application development.
