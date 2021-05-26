@@ -1,9 +1,9 @@
 ## 👋 Hi, I am Sujit!
 
 
-I am a software developer.
+As of 2021, I am a passionate web developer.
 
-I am extremely passionate about web application development, particularly the modern JavaScript driven web application development ecosystem. 
+I mostly work with the React.js ecosystem in the front-end but also boast a knowledge of Express.js, Next.js, Firebase & MongoDB. 
 
-Predominantly, I am well-versed with React.js but have some brief experience working with the MERN stack and most recently learnt Next.js. 
+I plan on exploring technologies like React Native, AWS Amplify, Golang & Kotlin this year. 
 <br/>
