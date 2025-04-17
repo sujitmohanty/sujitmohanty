@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌐 I am a **former Front-end Engineer**.
+🌐 I am a **former Front-end Engineer** specialising in React.js
 
 Around the mid of 2018, I made the descision of pursuing a disjointed technology stack with incosistent tooling, frequent disruptions and an overabundance of self-nominated experts.
 
