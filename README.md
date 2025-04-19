@@ -15,5 +15,5 @@ As of 2025, I am an advocate for technology stacks that are battle-tested, stron
 - 💬 Ask me about state of front-end development ecosystem in 2025.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sujit-mohanty) | [X](https://www.x.com/_sujit_mohanty)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Back in 2012, I was so obsessed with a debutant Hindi TV Soap Opera actress that I composed and successfully published her wikipedia page. [Proof](https://en.wikipedia.org/wiki/Special:Contributions/Sujitmohanty2012)
+- ⚡ Fun fact: Back in 2012, I was so obsessed with a debutant Hindi TV Soap Opera actress that I composed and successfully published her wikipedia [page](https://en.wikipedia.org/wiki/Special:Contributions/Sujitmohanty2012)
 
