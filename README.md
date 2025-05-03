@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an advocate for technologies that are battle-tested, strongly opinionated, come with batteries-included and follow a convention over configuration philospohy for development.  
+I am an advocate for technologies that are strongly opinionated, come with batteries-included and follow a convention over configuration philospohy for development.  
 
 - 🌱 I’m currently learning Cloud Computing using AWS and KVM Virtualization.
 - 💬 Ask me about state of front-end development ecosystem in 2025.
