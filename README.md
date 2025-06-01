@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am an advocate for technologies that are strongly opinionated, come with batteries-included and follow a convention over configuration philospohy for development.  
+I am an advocate for technologies that are opinionated, come with batteries-included and follow a convention over configuration philospohy.  
 
-- 🌱 I’m currently learning KVM Virtualization with Proxmox and Data centre virtualization with OpenNebula.
+- 🌱 I’m currently learning cloud-native technologies.
 - 💬 Ask me about state of front-end development ecosystem in 2025.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sujit-mohanty) | [X](https://www.x.com/_sujit_mohanty)
 - 😄 Pronouns: He/Him
